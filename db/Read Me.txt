@@ -1,0 +1,10 @@
+PerpuSDA (Aplikasi Perpustakaan Daerah Sidoarjo) by Muhammad Herwindra Berlian
+
+Cara untuk menginstall aplikasi "PerpuSDA" ini :
+1. pertama run "PerpuSDA-setup.exe" lalu instal seperti biasa.
+2. sebelum anda menggunakan aplikasi ini, sediakan Mysql Server di komputer anda.
+3. lalu buat database di mysql server anda dengan nama "perpustakaan".
+4. lalu import "perpustakaan.sql".
+5. selesai.
+
+Jika terdapat error dan bug bisa hubungi 081939115544.
