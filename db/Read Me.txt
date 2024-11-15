@@ -6,5 +6,3 @@ Cara untuk menginstall aplikasi "PerpuSDA" ini :
 3. lalu buat database di mysql server anda dengan nama "perpustakaan".
 4. lalu import "perpustakaan.sql".
 5. selesai.
-
-Jika terdapat error dan bug bisa hubungi 081939115544.
